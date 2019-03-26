@@ -7,19 +7,19 @@ class Web extends CI_Controller {
  	{
 		parent::__construct();
 		/*
-			..:: SOAL ::.. 
-			Melakukan Load Model M_web
+			..:: QUESTION ::.. 
+			Doing Load Model M_web
 		*/
-		// YOUR CODE HERE
+		// YOUR_CODE_HERE
 
 	}
 		
 	/*
-		..:: SOAL ::.. 
-		Melakukan pendefinisian array assosiatif $data
+		..:: QUESTION ::.. 
+		Define the assosiative array $data
 		[YOUR_STUDENT_ID (int), YOUR_NAME (str), YOUR_CAMPUS (str)]
 	*/
-	// YOUR CODE HERE
+	// YOUR_CODE_HERE
 	public $data = array(
 		"nim" => YOUR_STUDENT_ID,
 		"nama" => YOUR_NAME,
@@ -29,32 +29,32 @@ class Web extends CI_Controller {
 	public function index()
 	{
 		/*
-		..:: SOAL ::.. 
-		Melakukan load view page_header, dan page_index
+		..:: QUESTION ::.. 
+		Doing load view page_header, dan page_index
 		*/
-		// YOUR CODE HERE
+		// YOUR_CODE_HERE
 
 	}
 
 	public function mahasiswa()
 	{
 		/*
-		..:: SOAL ::.. 
-		Melakukan load method Getmahasiswa_nim from M_web Model.
-		Melakukan load view page_header, dan page_mahasiswa, beserta array data hasil Getmahasiswa_nim
+		..:: QUESTION ::.. 
+		Doing load method Getmahasiswa_nim from M_web Model.
+		Doing load view page_header, dan page_mahasiswa, with array data from Getmahasiswa_nim result
 		*/
-		// YOUR CODE HERE
+		// YOUR_CODE_HERE
 
 	}
 
 	public function jurusan()
 	{
 		/*
-		..:: SOAL ::.. 
-		Melakukan load method Getjurusan_nim from M_web Model.
-		Melakukan load view page_header, dan page_jurusan, beserta array data hasil Getjurusan_nim
+		..:: QUESTION ::.. 
+		Doing load method Getjurusan_nim from M_web Model.
+		Doing load view page_header, dan page_jurusan, with array data from Getjurusan_nim result
 		*/
-		// YOUR CODE HERE
+		// YOUR_CODE_HERE
 
 	}
 }

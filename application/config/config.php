@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 
 /*
-  ..:: SOAL ::.. 
+  ..:: QUESTION ::.. 
   3. Fill BASE URL. Line 31.
 */
 $config['base_url'] = 'YOUR_CODE_HERE';

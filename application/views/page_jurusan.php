@@ -14,8 +14,8 @@
         </thead>
         <tbody>
           <!--
-            ..:: SOAL ::.. 
-            Melakukan print tabel dari hasil data Getjurusan_nim
+            ..:: QUESTION ::.. 
+            Print a table from the results of Getjurusan_nim data
           -->
           <!-- YOUR_CODE_HERE -->
 

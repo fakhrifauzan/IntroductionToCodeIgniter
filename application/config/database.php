@@ -74,7 +74,7 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 /*
-  ..:: SOAL ::.. 
+  ..:: QUESTION ::.. 
   4. Fill database config [database name]. Line 86.
 */
 

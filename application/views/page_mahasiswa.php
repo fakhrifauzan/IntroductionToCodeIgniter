@@ -16,8 +16,8 @@
         </thead>
         <tbody>
           <!--
-            ..:: SOAL ::.. 
-            Melakukan print tabel dari hasil data Getmahasiswa_nim, dan menampilkan foto dari setiap user dengan path 'assets/foto'
+            ..:: QUESTION ::.. 
+            Print a table from the results of Getmahasiswa_nim data, and display photos of each user with the 'assets / photo' path
           -->
           <!-- YOUR_CODE_HERE -->
           

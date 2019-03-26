@@ -5,18 +5,18 @@ class M_web extends CI_Model {
 
 	public function GetMahasiswa_nim(){
 		/*
-			..:: SOAL ::.. 
-			Function yang dapat mengambil data mahasiswa beserta nama jurusan. (clue: JOIN).
+			..:: QUESTION ::.. 
+			Function that can retrieve student data along with the name of the department [jurusan]. (clue: JOIN).
 		*/
-		// YOUR CODE HERE
+		// YOUR_CODE_HERE
 		
 	}
 	public function Getjurusan_nim(){
 		/*
-			..:: SOAL ::.. 
-			Function yang dapat mengambil data jurusan dan jumlah mahasiswa tiap jurusan. (clue: Join, Aggregate Function)
+			..:: QUESTION ::.. 
+			Function that can retrieve department [jurusan] data and the number of students in each department [jurusan]. (clue: Join, Aggregate Function)
 		*/
-		// YOUR CODE HERE
+		// YOUR_CODE_HERE
 
 	}
 }
